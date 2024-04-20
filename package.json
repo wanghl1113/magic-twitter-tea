@@ -1,12 +1,12 @@
 {
-  "name": "magic-haley-tea",
+  "name": "magic-twitter-tea",
   "version": "1.0.1",
   "main": "index.js",
   "license": "MIT",
-  "homepage": "https://github.com/wanghl1113/tea-haley-upload",
+  "homepage": "https://github.com/wanghl1113/magic-twitter-tea.git",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wanghl1113/tea-haley-upload"
+    "url": "https://github.com/wanghl1113/magic-twitter-tea.git"
   },
   "dependencies": {
     "axios": "^0.26.1",
@@ -14,7 +14,7 @@
     "node-xlsx": "^0.21.0",
     "puppeteer": "^13.5.2",
     "selenium-webdriver": "^4.1.1",
-    "twitter-haley-tea":"^1.0.0",
+    "magic-haley-tea":"^1.0.0",
     "vue-logo-fill": "^1.0.1"
   },
   "scripts": {
