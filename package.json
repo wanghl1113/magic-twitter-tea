@@ -1,8 +1,13 @@
 {
   "name": "twitter-haley-tea",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "license": "MIT",
+  "homepage": "https://github.com/Haley-Wong/twitter-haley-tea.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Haley-Wong/twitter-haley-tea.git"
+  },
   "dependencies": {
     "axios": "^0.26.1",
     "faker": "^5.5.3",
